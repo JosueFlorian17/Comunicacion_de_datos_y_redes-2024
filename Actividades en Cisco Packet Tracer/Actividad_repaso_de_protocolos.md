@@ -23,4 +23,4 @@ No porque podríamos cambiar, por ejemplo, la formalidad o el uso de emojis al h
 Podrían encontrarse problemas al enviarse mensajes desde diferentes usuarios con protocolos distintos, haciendo dificil el envío de imágenes si un usuario lo tiene dentro de su protocolos y otro no, o la confirmaión de lectura si no está presente en ambos extremos de la comunicación. 
 
 ## 3. Comparte las reglas de protocolo con tus compañeros de equipo. ¿Hay diferencias entre tus protocolos y los de ellos? Si es así, ¿podrían estas diferencias producir malentendidos de los mensajes?
-
+Sí, podría hacer imposible el envío de archivos o, de hacerse, presentarse corruptos
