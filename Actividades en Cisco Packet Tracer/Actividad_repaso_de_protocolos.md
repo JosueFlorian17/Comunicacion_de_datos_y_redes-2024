@@ -6,8 +6,7 @@ como diversas formas de comunicación.
 - Definir las reglas que rigen cómo se envían e interpretan los mensajes de texto.
 - Explicar qué pasaría si el emisor y el receptor no coincidieran en los detalles del protocolo
   
-| Requisito del
-protocolo | ¿Qué significa esto? | ¿Cómo se implementa en su protocolo? |
+| Requisito del protocolo | ¿Qué significa esto? | ¿Cómo se implementa en su protocolo? |
 |-----------|-----------|-----------|
 |       Un emisor y un receptor identificados    |     ¿Cómo sabe de quién es el mensaje de texto? ¿Cómo sabe la persona en el otro extremo que usted recibió el mensaje? ¿Va dirigido a una persona o a un grupo| En mensajería de texto, el emisor y el receptor generalmente se identifican por el número de teléfono, el nombre de usuario o el apodo. Los mensajes de texto se pueden enviar a un grupo predefinido o a grupos nuevos que se crean según la necesidad.  |
 |    Un método de comunicación acordado       |    ¿Solo enviamos texto? ¿Enviamos y recibimos fotos? ¿Y los emoticones y emoji?     |     Enviar texto es lo más básico para la comunicación, pero podemos añadir emoticonos por medio de la combinación de caracteres, y el envío de contenido multimedia tanto en imágenes como en emojis requiere más complejidad en nuestro método, que podemos obviar.      |
