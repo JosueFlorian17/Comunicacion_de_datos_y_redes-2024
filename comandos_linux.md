@@ -26,8 +26,13 @@ en este caso, creamos el directorio redes y trabajamos con él
 ## Trabajando con comandos
 ### type
 nos ayuda a indetificar el tipo de comando que se correrá
+
 ![imagen](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/145f791b-d74a-4dbb-94fe-f045f70b49ce)
 ## help
+
+![Captura desde 2024-04-24 08-50-34](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/8b333c0f-7aab-4782-a5ac-5263e50657a5)
+
+
 nos muestra los posibles comandos a usar
 
 ## Redirección de Inputs/Outputs
@@ -41,59 +46,6 @@ Y para recibir inputs desde un archivo en lugar de escribirlos con el teclado, u
 ## Permisos
 En linux, cada uno de los directorios tiene diferentes accesos, por lo que se necesitará de diferentes permisos para poder trabajar
 ![Captura desde 2024-04-24 09-01-06](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/3f2c6449-2ece-4ede-84a6-1a8446a12374)
-
-el archivo /bin/bash pertenece al usuario "root"
-Con **chmod** podemos cambiar los permisos de un archivo
-el **superuser** o **su** es necesario para realizar tareas importantes del sistema
-mientras que con **sudo** tenemos temporalmente los derechos de superusuario
-
-# Comandos Linux
-
-
-## Trabajando con "la Shell" para enviar comandos al sistema operativo, se harà a travès de la terminal de Linux, que nos permitirà interactuar con el teclado directamente en la Shell
-1.- Escribiendo comandos sin sentido:
-
-![imagen](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/e3c089b4-a7ec-406d-8174-009a01d6e629)
-
-no se reconoce el comando 
-## Comando pwd para mostrar el directorio en donde estamos
-![imagen](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/06168478-f1e3-449f-94d0-54ec9803809f)
-
-## Comando ls para ver la lista de archivos en el directorio
-![imagen](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/60961d5b-ace3-493d-b7f0-fc228e0bc182)
-
-## Comando cd para cambiar el directorio
-![imagen](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/e0345673-da97-4f15-b030-b7c79ae1e37c)
-
-## Comandos para manipular archivos
-### cp para hacer copias
-### mv para renombrar archivos
-![imagen](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/1d290971-0c43-4689-80f3-0148102e147c)
-### rm para eliminar archivos
-![imagen](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/c9c408d1-d3fb-492a-af16-7fe94242dc6e)
-### mkdir para crear directorios 
-en este caso, creamos el directorio redes y trabajamos con él
-
-## Trabajando con comandos
-### type
-nos ayuda a indetificar el tipo de comando que se correrá
-![imagen](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/145f791b-d74a-4dbb-94fe-f045f70b49ce)
-## help
-nos muestra los posibles comandos a usar
-
-## Redirección de Inputs/Outputs
-con el comando >, podemos guardar los datos en un archivo en lugar de representarlos en la terminal, mientras que con >> podemos añadir en lugar de sobreescribir
-![Captura desde 2024-04-24 08-54-34](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/26fae6e4-bbae-4317-89a0-8284cd90f500)
-
-
-Y para recibir inputs desde un archivo en lugar de escribirlos con el teclado, usamos <, así como una combinación entre input y output
-![imagen](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/258e65f7-93b5-482a-90f3-1e0d59986ddb)
-
-## Permisos
-En linux, cada uno de los directorios tiene diferentes accesos, por lo que se necesitará de diferentes permisos para poder trabajar
-  
-![Captura desde 2024-04-24 09-01-06](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/f5648e69-9cf0-4d10-aa4b-747f9ef1e472)
-
 
 el archivo /bin/bash pertenece al usuario "root"
 Con **chmod** podemos cambiar los permisos de un archivo
