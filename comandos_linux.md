@@ -40,7 +40,16 @@ Y para recibir inputs desde un archivo en lugar de escribirlos con el teclado, u
 
 ## Permisos
 En linux, cada uno de los directorios tiene diferentes accesos, por lo que se necesitará de diferentes permisos para poder trabajar
+![Captura desde 2024-04-24 09-01-06](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/3f2c6449-2ece-4ede-84a6-1a8446a12374)
+
+el archivo /bin/bash pertenece al usuario "root"
+Con **chmod** podemos cambiar los permisos de un archivo
+el **superuser** o **su** es necesario para realizar tareas importantes del sistema
+mientras que con **sudo** tenemos temporalmente los derechos de superusuario
+
 # Comandos Linux
+
+
 ## Trabajando con "la Shell" para enviar comandos al sistema operativo, se harà a travès de la terminal de Linux, que nos permitirà interactuar con el teclado directamente en la Shell
 1.- Escribiendo comandos sin sentido:
 
