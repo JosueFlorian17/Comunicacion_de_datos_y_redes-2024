@@ -19,16 +19,36 @@ Fotos de la infancia, datos personales y bancarios, etc. De ser interceptada dic
 
 Ayuda a tener la información más al alcance de cualquier usuario, pero también ha traído barreras para el uso en personas poco acostumbradas a la tecnología y generación de addición o ansiedad al depender de las redes sociales en internet. Me gustaría poder experimentar con más sentidos, como el gusto, olfato y tacto.
 
-## ACTIVIDAD 1: 
+## ACTIVIDAD 1: Introducción a la informática en la nube
 
-- ¿Cuál es una de las formas en las que la informática en la nube ha afectado al conjunto de la sociedad?
+- **¿Cuál es una de las formas en las que la informática en la nube ha afectado al conjunto de la sociedad?**
   
 Ha ayudado al ofrecimiento de servicios en línea, permitiendo que muchas personas realicen actividades en linea sin tener que descargar o configurar nada.
 
-- ¿Alguna información fue sorprendente o inesperada?
+- **¿Alguna información fue sorprendente o inesperada?**
 
 Me gustó la reafirmación y especificación de conceptos como lo que es un servidor, entre otras cosas. 
 
-- ¿Cuáles son algunas de las fuentes en las que encontró su información y qué le llevó a creer que estas fuentes son creíbles y precisas?
+- **¿Cuáles son algunas de las fuentes en las que encontró su información y qué le llevó a creer que estas fuentes son creíbles y precisas?**
 
 Páginas como la misma aws, en donde detallan la información y utiidad de conceptos como el IaaS, SaaS, etc.
+
+
+## ACTIVIDAD 2: Uso de los servicios en la nube
+
+- **¿Cuáles son las principales diferencias en la forma en que las empresas utilizan los servicios?**
+
+Algunos usan los servicios para procesamiento de datos, otros para almacenamiento, otros para despliegue de aplicaciones, etc.
+
+- **¿Le parece que alguno de los servicios es el más importante? Si es así, ¿por qué?**
+
+No, todos son igualmente importantes para las diferentes necesidades de los usuarios
+
+- **Si un amigo cercano o familiar estuviera empezando un negocio y quisiera utilizar los servicios en la nube, ¿qué consejo daría?**
+
+Que tenga cuidado con el tiempo de uso y sea eficiente, pues al pagar por estos servicios, sería importante que no haga gastos innecesarios.
+
+## Conexión Opcional
+Elija una empresa y escriba un breve resumen de cómo la informática en la nube permitió a la empresa hacer algo que de otro modo no habría sido posible.
+
+- Mercado libre, una empresa dedicada al comercio en linea, enfocados en un entorno 100% cloud, por lo que sus procesos de compra y pago son únicamente posibles gracias a la informática en la nube.
