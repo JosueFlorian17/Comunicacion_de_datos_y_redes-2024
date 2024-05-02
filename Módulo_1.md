@@ -1,4 +1,4 @@
-# apuntes aws
+# Apuntes aws
 - ¿Qué es un servidor?
 Equipo o red de equipos diseñados para enviar y recibir mensajes o solicitudes a través del internet o red local
 
