@@ -1,6 +1,8 @@
 # Estructuras de la nube
-Zona de disponibilidad: centros que albergan muchos servidores, conectadas entre sí por enlaces de baja latencia 
-Ubicación de borde: Ubicación donde almacenar datos de manera que no haya tanta latencia 
+**Zona de disponibilidad:** centros que albergan muchos servidores, conectadas entre sí por enlaces de baja latencia 
+
+**Ubicación de borde:** Ubicación donde almacenar datos de manera que no haya tanta latencia 
+
 IaaS: Máquinas virtuales y servidores que permiten a los usuarios alojar aplicaciones 
 - Piense en IaaS como si se tratase de alquilar una cocina. Puede usar todos los diferentes electrodomésticos (batidoras, licuadoras, fregaderos) y puede alquilar una cocina con mejores electrodomésticos si los necesita.
 PaaS: Plataforma para la creación de software
