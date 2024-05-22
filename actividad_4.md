@@ -100,3 +100,45 @@ Una vez realizados estos cambios
 podemos ver que nuestro servidor ¡FUNCIONA!
 
 ![image](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/d5a43d41-d63f-4611-b9f2-807b8aa905e7)
+
+
+## Creando un S3 Bucket
+
+Creamos un Bucket S3 y lo llamamos: de acouerdo a las normas establecidas
+Mantenemos la región establecida por defecto, teniendo en cuenta que los datos podrán ser migrados más adelante
+
+Eliminamos el bloqueo a todo acceso público a nuestro S3
+
+![image](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/38fa21f6-a94d-449f-bb35-c2571f5468cd)
+
+
+y creamos el bucket
+
+
+En la ventana de permisos, introducimos el siguiente código
+
+```
+{
+    "Version":"2012-10-17",
+    "Statement":[
+        {
+            "Sid":"PublicReadGetObject",
+            "Effect":"Allow",
+            "Principal":"*",
+            "Action":[
+                "s3:GetObject"
+            ],
+            "Resource":[
+                "arn:aws:s3:::example-bucket/*"
+            ]
+        }
+    ]
+}
+```
+
+
+Luego de eso, subimos el archivo HTML Index proporcionado, asegurándonos que se mantenga la clase de almacenamiento estándar
+
+Luego de establecer el documento html como index, copiamos el enlace y vemos que nuestra S3 está funcionando
+![image](https://github.com/JosueFlorian17/Comunicacion_de_datos_y_redes-2024/assets/150297452/b9dbfdcc-8da0-420c-b37d-48b3721f2c6a)
+
