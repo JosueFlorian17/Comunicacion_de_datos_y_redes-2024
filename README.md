@@ -8,6 +8,8 @@ https://colab.research.google.com/drive/1qryVw5s7VKOe-2KTxR5tTy8lb2tySVHq?usp=sh
 
 
 """
+
+
 class S3Bucket:
     def __init__(self):
          self.buckets = {} # Lista de buckets con los objetos establecidos para cada uno
@@ -44,4 +46,6 @@ s3.get_object("newbucket","archivo.txt")
 
 
 print(s3.buckets)
+
+
 """
