@@ -26,6 +26,16 @@ def assign_policy_to_group(iam_service, group_name, policy):
     print(f"Policy assigned to group '{group_name}'.")
 
 
+class Policy:
+    def __init__(self,name,permissions):
+        self.name=name
+        self.permissons=permissons
+
+admin_policy=Policy("AdminPolicy",["s3:ListBucket","ec2:StartInstances"])
+group_admin_policy=Policy("GroupAdminPolicy",["s3*","ec2:*"])
+
+iam_service.policies["AdminPolicy"] = admin_policy
+iam_service.policies["GroupAdminPolicy"] = group_admin_policy
 
 add_user_to_group(iam_service, "alice", "admin-group")
 add_user_to_group(iam_service, "paco", "otro_grupo")
