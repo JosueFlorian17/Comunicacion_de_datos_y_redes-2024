@@ -24,7 +24,7 @@ s3.put_object("mybucket","file2.txt","VA MOS")
 s3.get_object("mybucket","file2.txt")
 
 s3.create_bucket("newbucket")
-s3.put_object("newbucket","archivo.txt","ola k ase")
+s3.put_object("newbucket","archivo.txt","hola")
 s3.get_object("newbucket","archivo.txt")
 
 
